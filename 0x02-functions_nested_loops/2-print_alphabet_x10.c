@@ -5,6 +5,7 @@
 *
 *followed by a new line
 */
+
 void print_alphabet_x10(void)
 {
 
@@ -22,6 +23,6 @@ void print_alphabet_x10(void)
 			ch++;
 		}
 		_putchar('\n');
-		i++
+		i++;
 	}
 }
